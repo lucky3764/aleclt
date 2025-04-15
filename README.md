@@ -1,1 +1,2 @@
 # aleclt
+echo > uploads/.keep
